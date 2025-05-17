@@ -1,6 +1,6 @@
 #include <iostream>
 
-// Main function: asks for user's name and prints a greeting
+// Основная функция: запрашивает имя пользователя и выводит приветствие
 int main() {
     std::string name;  // Stores the user's name
     std::cout << "Enter your name: ";
